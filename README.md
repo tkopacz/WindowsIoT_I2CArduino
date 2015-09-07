@@ -1,2 +1,3 @@
-# WindowsIoT_I2CArduino
-How to use I2C to communicate with other devices; also - Arduino
+# Windows 10 IoT Core and I²C
+How to use [I²C](https://en.wikipedia.org/wiki/I%C2%B2C) on [Raspberry PI 2](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) and [Windows 10 IoT Core](https://dev.windows.com/en-us/iot) to communicate with other devices - [PCF8591](http://www.nxp.com/documents/data_sheet/PCF8591.pdf) (8-bit A/D and D/A Converter), [MCP23008](http://ww1.microchip.com/downloads/en/DeviceDoc/21919e.pdf) (8-Bit I/O Expander) and [Arduino](https://www.arduino.cc/en/Main/arduinoBoardUno) as a I2C Slave.
+Materials for [webcast](https://channel9.msdn.com/Series/Raspberry-PI-2-i-Windows-10-IoT-Core--jak-zacz/14-Raspberry-PI-i-I2C--czyli-jak-podczy-acuch-urzdze-do-RPI-uywajc-szyny-I2C-Na-przykadzie-Arduino-P).
